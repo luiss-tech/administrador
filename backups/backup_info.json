@@ -1,0 +1,40 @@
+[
+    {
+        "filename": "backup_2026-05-11_15-42-47.sql",
+        "description": "",
+        "created_at": "2026-05-11 15:42:47",
+        "created_by": "Administrador",
+        "user_id": 1,
+        "tables": [
+            "cajas",
+            "categorias",
+            "detalle_venta",
+            "empleados",
+            "historial_cambios",
+            "lotes",
+            "movimientos_caja",
+            "productos",
+            "sessiones_activas",
+            "ventas"
+        ]
+    },
+    {
+        "filename": "backup_2026-06-13_23-07-27.sql",
+        "description": "Backup autom\u00e1tico diario (ejecuci\u00f3n diferida)",
+        "created_at": "2026-06-13 23:07:27",
+        "created_by": "Administrador",
+        "user_id": 1,
+        "tables": [
+            "cajas",
+            "categorias",
+            "detalle_venta",
+            "empleados",
+            "historial_cambios",
+            "lotes",
+            "movimientos_caja",
+            "productos",
+            "sessiones_activas",
+            "ventas"
+        ]
+    }
+]

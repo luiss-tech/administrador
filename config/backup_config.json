@@ -1,0 +1,6 @@
+{
+    "backup_diario": true,
+    "backup_semanal": false,
+    "max_backups": 10,
+    "hora_backup_diario": "08:38"
+}
